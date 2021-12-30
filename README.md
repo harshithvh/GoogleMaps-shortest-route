@@ -24,3 +24,25 @@ How to find the best route between these locations?
 After locating all the location points and joining all the edges representing possible routes for navigation from a source location to destination location.
 
 <img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/GoogleMaps-shortest-route/blob/main/img/img-2.png" />
+
+# Graph Datastructure
+
+---
+
+A Graph is a non-linear data structure consisting of nodes and edges. The nodes are sometimes also referred to as vertices and the edges are lines or arcs that connect any two nodes in the graph.
+
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/GoogleMaps-shortest-route/blob/main/img/img-3.png" />
+
+NODES
+
+A node is a basic unit of a data structure, such as a linked list or tree data structure. Nodes contain data and also may link to other nodes. Links between nodes are often implemented by pointers.
+
+COST
+
+Represents the total length of the network measured in real transport distances.
+
+EDGE
+
+Edge − Edge represents a path between two vertices or a line between two vertices. In the following example, the lines from A to B, B to C, and so on represent edges. We can use a two-dimensional array to represent an array as shown in the following image.
+
+
