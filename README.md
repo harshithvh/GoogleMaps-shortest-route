@@ -51,9 +51,8 @@ Edge − Edge represents a path between two vertices or a line between two verti
 
 This algorithm uses the heuristic approach
 
-<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/GoogleMaps-shortest-route/blob/main/img/img-4.png" />
-
-<hr>
+<img align="left" alt="Visual Studio Code" width="820px" margin-bottom="5px" src="https://github.com/harshithvh/GoogleMaps-shortest-route/blob/main/img/img-4.png" />
+<br>
 <img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/GoogleMaps-shortest-route/blob/main/img/img-5.png" />
 
 Now we were able to find the best route possible 
