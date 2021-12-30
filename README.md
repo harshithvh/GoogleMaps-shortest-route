@@ -53,8 +53,7 @@ This algorithm uses the heuristic approach
 
 <img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/GoogleMaps-shortest-route/blob/main/img/img-4.png" />
 
----
-
+<hr>
 <img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/GoogleMaps-shortest-route/blob/main/img/img-5.png" />
 
 Now we were able to find the best route possible 
