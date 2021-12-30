@@ -45,4 +45,18 @@ EDGE
 
 Edge − Edge represents a path between two vertices or a line between two vertices. In the following example, the lines from A to B, B to C, and so on represent edges. We can use a two-dimensional array to represent an array as shown in the following image.
 
+# Best route - A* Search Algorithm
+
+---
+
+This algorithm uses the heuristic approach
+
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/GoogleMaps-shortest-route/blob/main/img/img-4.png" />
+
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/GoogleMaps-shortest-route/blob/main/img/img-5.png" />
+
+Now we were able to find the best route possible 
+
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/GoogleMaps-shortest-route/blob/main/img/img-6.png" />
+
 
